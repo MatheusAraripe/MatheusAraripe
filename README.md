@@ -12,10 +12,9 @@
   
  <div>
  <br>
-  <img align="center" alt="Cunha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
-  <img align="center" alt="Cunha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
-  <img align="center" alt="Cunha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
-   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"  height = "30"  width = "40" aling = "center" style = "max-width:100%;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height = "30" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height = "30" />
 </div>
 
 ##
