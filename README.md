@@ -12,7 +12,6 @@
   
  <div>
  <br>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"  height = "30"  width = "40" aling = "center" style = "max-width:100%;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height = "30" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height = "30" />
 </div>
