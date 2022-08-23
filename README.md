@@ -14,9 +14,13 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height = "30" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height = "30" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height = "30"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height = "30"/>
+   <img src="https://img.icons8.com/color/48/000000/numpy.png" height = "35"/>
+   <img src="https://img.icons8.com/color/48/000000/pandas.png" height = "35"/>
+   
+
           
 </div>
+
 
 ##
 
