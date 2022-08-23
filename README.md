@@ -18,10 +18,9 @@
    <img src="https://img.icons8.com/color/48/000000/pandas.png" height = "35"/>
    
 
-          
 </div>
-
 
 ##
 
 ![snake gif](https://github.com/MatheusAraripe/MatheusAraripe/blob/output/github-contribution-grid-snake.svg)
+
