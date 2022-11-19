@@ -9,14 +9,8 @@
 </div>
 
   
- <div>
- <br>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height = "30" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height = "30" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height = "30"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" height = "30"/>  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height = "30"/>    
-</div>
+[![My Skills](https://skillicons.dev/icons?i=react,py,go,rails,postgres,webpack,ts,flask,pytorch)](https://skillicons.dev)
+
 
 ##
 
