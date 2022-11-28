@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/MatheusAraripe">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MatheusAraripe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" style="max-width:100%;" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusAraripe&theme=tokyonight&hide_border=true" style="max-width:100%;" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusAraripe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" style="max-width:100%;" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusAraripe&theme=tokyonight&hide_border=true" style="max-width:100%;" />
 
 </div>
   
