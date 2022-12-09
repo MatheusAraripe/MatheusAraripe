@@ -14,7 +14,8 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+<img align="right" height="300em" alt="Gusta" src="https://media.giphy.com/media/H4DgojtuLT7slMWiq2/giphy.gif" style="max-width:100%;">
 
 
 ##
