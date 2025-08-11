@@ -18,7 +18,3 @@
 <img align="right" height="300em" alt="giphy" src="https://media.giphy.com/media/H4DgojtuLT7slMWiq2/giphy.gif" style="max-width:100%;">
 
 
-##
-
-![snake gif](https://github.com/MatheusAraripe/MatheusAraripe/blob/output/github-contribution-grid-snake.svg)
-
